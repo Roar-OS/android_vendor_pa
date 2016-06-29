@@ -1,23 +1,5 @@
 [
     {
-        "target_path":  "device/lge/bullhead",
-        "repository":   "android_device_lge_bullhead",
-        "remote":       "aospa",
-        "revision":     "marshmallow"
-    },
-    {
-        "target_path":  "device/lge/bullhead-kernel",
-        "repository":   "device/lge/bullhead-kernel",
-        "remote":       "aosp",
-        "revision":     "refs/tags/android-6.0.1_r45"
-    },
-    {
-        "target_path":  "vendor/lge/bullhead",
-        "repository":   "proprietary_vendor_lge_bullhead",
-        "remote":       "aospa",
-        "revision":     "marshmallow"
-    },
-    {
         "target_path":  "hardware/qcom/audio",
         "repository":   "platform/hardware/qcom/audio",
         "remote":       "aosp",
